@@ -71,6 +71,7 @@ _Consider checking out the FrontEnd [repository](https://github.com/joaoathaide/
 
 1. Clone this repo using `https://github.com/joaoathaide/gobarber-api-server.git`
 2. Move to the appropriate directory: `cd gobarber-api-server`.<br />
+3. Run `yarn sequelize db:migrate`.<br />
 3. Run `yarn` to install dependencies.<br />
 4. Copy the `.env.example` file and rename it to `.env`.<br/>
 5. Add all the values for the environment variables.<br/>
